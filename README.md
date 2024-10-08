@@ -34,3 +34,46 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+## Configuración del Proyecto
+
+Para configurar este proyecto, sigue estos pasos:
+
+1. **Clona el repositorio**:
+   Abre tu terminal y ejecuta el siguiente comando para clonar el repositorio:
+   ```bash
+   git clone https://github.com/tu_usuario/tu_repositorio.git
+   ```
+
+2. **Navega al directorio del proyecto**:
+   Cambia al directorio del proyecto clonado:
+   ```bash
+   cd tu_repositorio
+   ```
+
+3. **Instala las dependencias**:
+   Ejecuta uno de los siguientes comandos para instalar las dependencias del proyecto:
+   ```bash
+   npm install
+   # o
+   yarn install
+   # o
+   pnpm install
+   ```
+
+4. **Ejecuta el servidor de desarrollo**:
+   Inicia el servidor de desarrollo con uno de los siguientes comandos:
+   ```bash
+   npm run dev
+   # o
+   yarn dev
+   # o
+   pnpm dev
+   # o
+   bun dev
+   ```
+
+5. **Abre tu navegador**:
+   Visita [http://localhost:3000](http://localhost:3000) en tu navegador para ver el resultado.
+
+Ahora puedes comenzar a editar el proyecto y ver los cambios reflejados en tiempo real.
